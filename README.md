@@ -2,7 +2,7 @@
 # CHAT APP Django,React,Node.js,REST API
 
 
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Chatapp/1.png)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Chatapp/1.png?raw=true)
 
 #### 1.	Настройте требования к проекту: Django, REST framework, JWT
 
