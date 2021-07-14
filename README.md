@@ -1,5 +1,5 @@
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_21.svg?raw=true)
-# CHAT APP Django,React,Node.js,REST API
+# CHAT APP: Django,React,Node.js,REST API
 
 
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/Chatapp/1.png?raw=true)
